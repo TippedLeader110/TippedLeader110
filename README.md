@@ -4,7 +4,7 @@ My name is Bayhaqi, i'm a full stack web developer who mainly using yii2 framewo
 <br>
 🔭 I’m currently working my project on <a href="https://gitlab.com/bayhaqi101">gitlab</a>
 
-#### Don't mind what happen below, i'm just fooling around with this profile page
+#### Don't mind what happen below, i'm just fooling around with this profile page -->
 
 
 <!--
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=TippedLeader110&show_icons=true&theme=radical" width="500">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TippedLeader110&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727">
@@ -28,6 +27,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Bayhaqi</h1>
 <h3 align="center">My name is Bayhaqi, i'm a full stack web developer who mainly using yii2 framework for creating web app</h3>
+<br>
+<h3 align="center>🔭 I’m currently working my project on <a href="https://gitlab.com/bayhaqi101">gitlab</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tippedleader110&label=Profile%20views&color=0e75b6&style=flat" alt="tippedleader110" /> </p>
 
