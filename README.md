@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Bayhaqi</h1>
 <h3 align="center">My name is Bayhaqi, i'm a full stack web developer who mainly using yii2 framework for creating web app</h3>
 <br>
-<h3 align="center>🔭 I’m currently working my project on <a href="https://gitlab.com/bayhaqi101">gitlab</a></h3>
+<h3 align="center">🔭 I’m currently working my project on <a href="https://gitlab.com/bayhaqi101">gitlab</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tippedleader110&label=Profile%20views&color=0e75b6&style=flat" alt="tippedleader110" /> </p>
 
