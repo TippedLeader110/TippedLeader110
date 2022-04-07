@@ -1,4 +1,9 @@
 ### Hi there 👋
+<hr>
+My name is bayhaqi, i'm a full stack web developer who mainly using yii2 framework for creating web app
+
+# Don't mind what happen below, i'm just fooling around with this profile page
+
 
 <!--
 **TippedLeader110/TippedLeader110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=TippedLeader110&show_icons=true&theme=radical" width="400">
