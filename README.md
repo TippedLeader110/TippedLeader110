@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=TippedLeader110&show_icons=true&theme=radical" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=TippedLeader110&show_icons=true&theme=radical" width="500">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TippedLeader110&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727">
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TippedLeader110&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727)](https://git.io/streak-stats) -->
