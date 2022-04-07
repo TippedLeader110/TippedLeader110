@@ -1,7 +1,7 @@
 # Hi there 👋
 <hr>
 My name is Bayhaqi, i'm a full stack web developer who mainly using yii2 framework for creating web app
-
+🔭 I’m currently working my project on <a href="https://gitlab.com/bayhaqi101">gitlab</a>
 
 #### Don't mind what happen below, i'm just fooling around with this profile page
 
