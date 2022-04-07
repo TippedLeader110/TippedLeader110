@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 <hr>
 My name is bayhaqi, i'm a full stack web developer who mainly using yii2 framework for creating web app
 
-# Don't mind what happen below, i'm just fooling around with this profile page
+#### Don't mind what happen below, i'm just fooling around with this profile page
 
 
 <!--
